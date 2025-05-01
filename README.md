@@ -1,2 +1,12 @@
 # AI-ML-Internship-Task-1
-Task 1: Data Cleaning &amp; Preprocessing Hints/Mini Guide:  1. Import the dataset and explore basic info (nulls, data types).  2. Handle missing values using mean/median/imputation.  3. Convert categorical features into numerical using encoding.  4. Normalize/standardize the numerical features.  5. Visualize outliers using boxplots and remove them.
+Task 1: Data Cleaning &amp; Preprocessing of Titanic Dataset
+Steps involved :
+- Import the Titanic Dataset from Kaggle
+- Import necessary libraries (pandas,numpy,seaborn,matplotlib,sklearn)
+- Read the dataset (.csv file)
+- Sanity check of data (Identifying missing values, outliers, garbage values and duplicates in the dataset)
+- Exploratory Data Analysis (EDA)
+- Missing Value Treatments
+- Encoding of Data (One-Hot & Label Encoding)
+- Feature Scaling
+- Outlier Treatments
